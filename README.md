@@ -1,2 +1,1 @@
-### Deployed on an AWS EC2 instance using an Elastic IP address
-### Deployed Link: http://43.204.76.220
+### Deployed at: https://hsharma-25.github.io/PEP_Assignment/
